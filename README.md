@@ -1,1 +1,5 @@
 # Streamlit
+
+streamlit
+openai
+numpy
